@@ -1,0 +1,17 @@
+{
+   "user": [
+
+      {
+         "name": "Kafi",
+         "email": "muksid@ishraak.com",
+         "password": "sihraak"
+      },
+
+      {
+         "name": "Nayeem",
+         "email": "nayeem@ishraak.com",
+         "password": "ceo"
+      }
+
+   ]
+}
