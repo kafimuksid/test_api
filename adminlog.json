@@ -1,14 +1,12 @@
-{
-   "user": [
-      {
-         "name": "Kafi",
-         "email": "muksid@ishraak.com",
-         "password": "dev034"
-      },
-      {
-         "name": "Nayeem",
-         "email": "nayeem@ishraak.com",
-         "password": "ceo01"
-      }
-   ]
-}
+[
+   {
+      "name":"Kafi",
+      "email":"muksid@ishraak.com",
+      "password":"dev034"
+   },
+   {
+      "name":"Nayeem",
+      "email":"nayeem@ishraak.com",
+      "password":"ceo01"
+   }
+]
