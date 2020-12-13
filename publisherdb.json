@@ -3,7 +3,7 @@
       {
          "name":"Publisher Name",
          "email":"Publisher Email",
-         "publishedpost":"No. of published/n post today",
+         "publishedpost":"No. of published\n post today",
          "avatarUrl":"https://image.freepik.com/free-icon/important-person_318-10744.jpg"
       },
       {
