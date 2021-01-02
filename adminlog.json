@@ -6,6 +6,11 @@
          "password":"dev034"
       },
       {
+         "name":"Admin",
+         "email":"admin@root.com",
+         "password":"root00"
+      },
+      {
          "name":"Nayeem",
          "email":"nayeem@ishraak.com",
          "password":"ceo01"
